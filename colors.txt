@@ -1,3 +1,4 @@
 colors of rain bow are
-green
-remain only one color
+black 
+white 
+grey
